@@ -14,16 +14,16 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "Resistor"
+			(at 2.54 -2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "test:0603"
+			(at 2.794 -6.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40,8 +40,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "Резистор 0603"
+			(at 2.286 -4.064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
